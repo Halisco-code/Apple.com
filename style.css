@@ -1,0 +1,114 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.bar{
+    position: fixed;
+    top: 0px;
+    font-size: 12px;
+}
+.nav{
+    align-items: center;
+    margin: 0px 230px;
+    padding-right: 30px;
+}
+.toy{
+    top: 15px;
+}
+.fun{
+    background-image: url(Apple/hero_ai__fsutbxvuni62_medium.jpg);
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+    padding: 80px 400px;
+}
+.jig{
+    width: 100%;
+    height: 200px;
+    text-align: center;
+}
+.fex{
+    font-size: 50px;
+    text-align: center;
+}
+.fix{
+    font-size: 30px;
+    text-align: center;
+}
+.fox{
+    font-size: 20px;
+    text-align: center;
+    color: grey;
+}
+.btn{
+    margin: -350px 200px;
+}
+.btni{
+    background-color: #0077ED;
+    width: 150px;
+    height: 40px;
+    color: white;
+    font-size: 20px;
+    padding: 10px;
+    border-radius: 20px;
+}
+.btnii{
+    background-color: #F5F5F7;
+    width: 150px;
+    height: 40px;
+    color: #0077ED;
+    font-size: 16px;
+    padding: 10px;
+    border-radius: 20px; 
+    border: 1px solid #0077ED;
+}
+.btnii:hover{
+    background-color: #0077ED;
+    color: #F5F5F7;
+}
+.fin{
+    background-image: url(Apple/hero_iphone15pro__i70z9oz3hj2i_medium.jpg);
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+    padding: 80px 400px;
+}
+.bex{
+    font-size: 50px;
+    text-align: center;
+    color: white;
+}
+.bix{
+    color: white;
+    font-size: 30px;
+    text-align: center;
+}
+.btniii{
+    width: 300px;
+    height: 60px;
+    color: blue;
+    font-size: 16px;
+    padding: 10px;
+    border-radius: 20px; 
+    border: 1px solid blue;
+}
+.btniii:hover{
+    background-color: #0077ED;
+    color: #F5F5F7;
+}
+.wel{
+    background-image: url(Apple/hero_iphone15_announce__uuemlcwczn6u_medium.jpg);
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+    padding: 80px 400px;
+}
+.iPad{
+    display: flex;
+    gap: 10px;
+}
+.jpad{
+    display: flex;
+    gap: 10px;
+}
